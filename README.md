@@ -1,4 +1,4 @@
-### Hi 👋 I'm Jørgen. I'm a
-- 👨‍🔧 software engineer
-- 🔗 working with blockchain and
-- 🪙 cryptocurrencies
+### Hi 👋 I'm Jørgen. 
+- 👨‍🔧 A software engineer
+- 🔗 working with blockchain
+- 🪙 and cryptocurrencies
